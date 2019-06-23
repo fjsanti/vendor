@@ -1,7 +1,7 @@
 
 ro.product.first_api_level=26
-ro.vendor.build.date=Wed Jan 9 04:26:29 CST 2019
-ro.vendor.build.date.utc=1547029589
+ro.vendor.build.date=Tue May 7 20:13:47 CDT 2019
+ro.vendor.build.date.utc=1557278027
 ro.vendor.build.security_patch=2018-06-05
 ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
 ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
@@ -16,15 +16,15 @@ ro.product.vendor.brand=motorola
 ro.product.vendor.name=evert_retail
 ro.product.vendor.device=evert
 ro.vendor.build.version.release=9
-ro.vendor.build.id=PPW29.116-16
+ro.vendor.build.id=PPWS29.116-16-6
 ro.vendor.build.type=user
 ro.vendor.build.tags=release-keys
 # end build properties
-ro.vendor.build.thumbprint=9/PPW29.116-16/2163:user/release-keys
+ro.vendor.build.thumbprint=9/PPWS29.116-16-6/5cbfe:user/release-keys
 #
 # ADDITIONAL VENDOR BUILD PROPERTIES
 #
-ro.vendor.radio.imei.sv=11
+ro.vendor.radio.imei.sv=13
 ro.telephony.default_network=10,0
 ro.com.google.ime.theme_id=4
 ro.config.ringtone=Moto.ogg

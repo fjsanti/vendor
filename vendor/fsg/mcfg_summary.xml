@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<McfgCarrierInfo host="ilclbld117" time="2018-12-04T21:31:36-0600" user="hudsonmd">
+<McfgCarrierInfo host="ilclbld117" time="2019-02-06T01:01:53-0600" user="hudsonmd">
   <Carrier id="203" name="ACGLTE_USA" sha1="d106ba5ee623544c90e74de9534a097f83b3393e" version="M8998_MCFG_FLEX_05.80">
     <QualcommRevision sizeOf="1" type="uint32">134283780</QualcommRevision>
     <IINList sizeOf="10" type="uint32">8901230 8911300 8901581 8901921 891910 891420 891470 8901930 890134 89012801</IINList>
