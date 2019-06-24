@@ -1,3 +1,19 @@
+# Audio ACDB
+vendor/etc/acdbdata/common/Bluetooth_cal.acdb
+vendor/etc/acdbdata/common/General_cal.acdb
+vendor/etc/acdbdata/common/Global_cal.acdb
+vendor/etc/acdbdata/common/Handset_cal.acdb
+vendor/etc/acdbdata/common/Hdmi_cal.acdb
+vendor/etc/acdbdata/common/Headset_cal.acdb
+vendor/etc/acdbdata/common/Speaker_cal.acdb
+vendor/etc/acdbdata/idn/Bluetooth_cal.acdb
+vendor/etc/acdbdata/idn/General_cal.acdb
+vendor/etc/acdbdata/idn/Global_cal.acdb
+vendor/etc/acdbdata/idn/Handset_cal.acdb
+vendor/etc/acdbdata/idn/Hdmi_cal.acdb
+vendor/etc/acdbdata/idn/Headset_cal.acdb
+vendor/etc/acdbdata/idn/Speaker_cal.acdb
+
 # libchromatix
 vendor/lib/libchromatix_mot_ov5675_snapshot.so
 vendor/lib/libchromatix_mot_ov5675_hfr_120.so
