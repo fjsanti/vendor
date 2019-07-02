@@ -1,3 +1,10 @@
-rm vendor/etc/media_codecs_google_audio.xml
-rm vendor/etc/media_codecs_google_telephony.xml
-rm vendor/etc/media_codecs_google_video.xml
+media_codecs_performance_sdm660_v1.xml
+media_codecs_vendor_audio.xml
+media_profiles_sdm660_v1.xml
+media_codecs.xml
+media_codecs_sdm660_v1.xml
+media_profiles.xml
+media_profiles_vendor.xml
+media_codecs_performance.xm
+media_codecs_vendor.xml
+media_profiles_V1_0.xml
